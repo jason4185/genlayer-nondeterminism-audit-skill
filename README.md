@@ -1,6 +1,6 @@
 # GenLayer Nondeterminism Audit Skill
 
-GenLayer Nondeterminism Audit Skill is a standalone agent skill for reviewing GenLayer Intelligent Contracts for unsafe nondeterministic state impact and missing validation/equivalence protection.
+GenLayer Nondeterminism Audit Skill is an agent skill for reviewing GenLayer Intelligent Contracts for unsafe nondeterministic state impact and missing validation/equivalence protection.
 
 ## Purpose
 
